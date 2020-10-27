@@ -1,0 +1,9 @@
+#+TITLE: Laconia — a spartan theme for Emacs
+
+Laconia was a land in Sparta that was famous for two things: laconic, concise, straight-to-the-point speech, and excellence in war. Naming this theme after Laconia has a reason — I want this theme to convey a succint and characteristic militaristic style.
+
+* Background
+
+Although I'm not a militarist, I had quite a lot of exposure to militaristic values and style in my early years. I still wear camo clothes sometimes :)
+
+Given that, green-and-red palette looks more pleasant to my eyes than blue-and-yellow palette (used, for example, by [[https://github.com/fxn/monochrome-theme.el][monochrome-theme]] and [[https://github.com/voloyev/sexy-monochrome-theme][sexy-monochrome-theme]]). I haven't found a good green-and-red monochrome theme, so this is my attempt at that :)
