@@ -99,7 +99,7 @@
 
    ;; Show-paren
 
-   `(show-paren-match ((t (:background ,dogreen))))
+   `(show-paren-match ((t (:background ,odrab))))
    `(show-paren-mismatch ((t (:background ,red))))
 
    ;; Speedbar
