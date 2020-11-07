@@ -195,6 +195,9 @@
    `(org-agenda-done ((t (:foreground ,odrab))))
    `(org-footnote ((t (:foreground ,dogreen :underline t))))
 
+   ;; Org-ref
+   `(org-ref-cite-face ((t (:inherit org-link))))
+
    ;; Outline
 
    `(outline-2 ((,class (:foreground ,white))))
