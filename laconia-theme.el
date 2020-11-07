@@ -193,6 +193,8 @@
    `(org-time-grid ((t (:foreground ,odrab))))
    `(org-agenda-structure ((t (:foreground ,dogreen))))
    `(org-agenda-done ((t (:foreground ,odrab))))
+   `(org-date ((t (:inherit org-link))))
+   `(org-date-selected ((t (:background ,ired))))
    `(org-footnote ((t (:foreground ,dogreen :underline t))))
 
    ;; Org-ref
