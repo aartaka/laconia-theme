@@ -193,6 +193,7 @@
    `(org-time-grid ((t (:foreground ,odrab))))
    `(org-agenda-structure ((t (:foreground ,dogreen))))
    `(org-agenda-done ((t (:foreground ,odrab))))
+   `(org-footnote ((t (:foreground ,dogreen :underline t))))
 
    ;; Outline
 
