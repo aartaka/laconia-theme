@@ -181,8 +181,8 @@
 
    ;; Org-mode
 
-   `(org-document-title ((t (:height 1.8 :foreground ,dogreen))))
-   `(org-document-info ((t (:foreground ,odrab))))
+   `(org-document-title ((t (:height 1.8 :foreground ,ired))))
+   `(org-document-info ((t (:foreground ,dogreen))))
    `(org-level-1 ((t (:bold t :foreground ,lgray :height 1.5))))
    `(org-level-2 ((t (:bold nil :foreground ,lgray :height 1.2))))
    `(org-level-3 ((t (:bold t :foreground ,lgray :height 1.0))))
