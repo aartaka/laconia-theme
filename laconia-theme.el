@@ -274,7 +274,10 @@
 
    `(flymake-error ((,class (:underline (:style wave :color ,red)))))
    `(flymake-note ((,class (:underline (:style wave :color ,odrab)))))
-   `(flymake-warning ((,class (:underline (:style wave :color ,ired))))))
+   `(flymake-warning ((,class (:underline (:style wave :color ,ired)))))
+
+   ;; SLY
+   `(sly-mrepl-output-face ((t (:foreground ,ired)))))
 
   (custom-theme-set-variables
    'laconia
